@@ -131,3 +131,23 @@ button.slick-next {
     padding: 0 8px;
     display: inline-block;
 }
+
+.conteudo {
+    width: 100%;
+    float: left;
+    padding: 0px;
+}
+
+.box {
+    width: calc(33% - 20px);
+    margin: 45px 0.568% 45px 0.56%;
+    float: left;
+    background-color: #f0f0f0;
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow: #0000009c 0 10px 20px 0;
+}
+
+.box h2 {
+    margin-top: 0;
+}
